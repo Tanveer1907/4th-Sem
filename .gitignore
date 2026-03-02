@@ -1,0 +1,13 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Node
+node_modules/
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# HackConnect (already ignored)
+HackConnect/
